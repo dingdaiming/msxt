@@ -1,0 +1,10 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appID": "N7RVK8D8SS.com.apex.sgtxtapp",
+             "path": ["apps/xtkhapp/*"]
+           }
+       ]
+   }
+}
